@@ -17,7 +17,7 @@ aberto a quaisquer feedback e comentários
 
 # ***Primeira página (Capa)*** 🚗 :blue_car: 
 
-![image](/Slide2.png?raw=true)
+![image](https://github.com/vinicius-mattoso/Admin_Lava_Jato/blob/main/Slide2.PNG)
 
 
 Na primeira pagina o usuário ira encontrar a lista do banco de dados coms suas respectivas informações simplificadas. 
@@ -32,7 +32,19 @@ Na primeira pagina o usuário ira encontrar a lista do banco de dados coms suas 
 
 5. Caso  o(a) coloborador(a) do lava jato queira fazer uma busca pelo modelo do carro também disponibilizamos um buscador nessa capa
 
+# ***Página Serviços*** 🚗 :blue_car: 
 
+![image](https://github.com/vinicius-mattoso/Admin_Lava_Jato/blob/main/Slide3.PNG)
+
+
+# ***Página Adicionar novos clientes*** 🚗 :blue_car: 
+
+![image](https://github.com/vinicius-mattoso/Admin_Lava_Jato/blob/main/Slide4.PNG)
+
+
+# ***Página Balanço*** 🚗 :blue_car: 
+
+![image](https://github.com/vinicius-mattoso/Admin_Lava_Jato/blob/main/Slide1.PNG)
 
 ## **Atualizações** :memo:
 
