@@ -67,7 +67,7 @@ Nessa pagina, a intenção é a criação de um dashboard que auxilie:
 - [ ] Criar o Dashboard, para tornar mais interativo o balanço do lava-jato; :construction: :warning: :construction:
 - [ ] Hospedar esse projeto no Heroku; :construction: :warning: :construction:
 
-## **Passo a passo** :memo:
+## **Passo a passo para rodar a aplicação** :memo:
 1. Fazer o Download de todos os arquivos desse repositório
 2. ativar o ambiente virtual (venv) que contem as bibliotecas utilizdas nesse projeto
 3. Colocar no terminal o seguite comando: python manage.py runserver 
