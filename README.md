@@ -34,15 +34,31 @@ Na primeira pagina o usuário ira encontrar a lista do banco de dados coms suas 
 
 # ***Página Serviços*** 🚗 :blue_car: 
 
+Essa página serve como referencia para auxiliar na venda dos pacotes de serviço
 ![image](https://github.com/vinicius-mattoso/Admin_Lava_Jato/blob/main/Slide3.PNG)
 
 
 # ***Página Adicionar novos clientes*** 🚗 :blue_car: 
+Para realizar o cadastro de um novo cliente, inserimos:
 
+- Modelo do carro;
+- Marca do carro;
+- Cor do carro;
+- ano do carro;
+- Serviço a ser realizado;
+- Quando o carro está entrando;
+- Qual vai ser a forma de pagamento;
+- 
 ![image](https://github.com/vinicius-mattoso/Admin_Lava_Jato/blob/main/Slide4.PNG)
 
 
 # ***Página Balanço*** 🚗 :blue_car: 
+Nessa pagina, a intenção é a criação de um dashboard que auxilie:
+- Na hora de avaliar o desempenho do lava jato;
+- Entender qual é o pacote com maior procura;
+- Qual é a renda mensal;
+- Qual o volume de vendas;
+- identificar qual é o mês mais rentábel;
 
 ![image](https://github.com/vinicius-mattoso/Admin_Lava_Jato/blob/main/Slide5.PNG)
 
