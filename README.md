@@ -13,33 +13,34 @@ aberto a quaisquer feedback e comentários
 :construction: :warning: :construction:
 
 # ***Objetivo*** :dart:
-  O Objetivo desse projeto não é nenhuma recomendação de investimento, é apenas para ajudar o investidor a análisar os fundos imobiliários segundo algumas métricas adotadas pelo autor mas que podem ser facilmente alteradas de acordo com a vontade do usuário.
+  O Objetivo desse projeto foi o treinamento do framework Django para a realização de um CRUD (Create, Read, Update, Delete) para administração de um lava jato. Foram utilizados os conhecimentos adquiridos com os vídeos do Webdesign em Foco (<https://www.youtube.com/watch?v=-vrXnewHrwA>) sobre o CRUD.
 
-# ***Etapas*** :memo:
+# ***Primeira página (Capa)*** 🚗 :blue_car: 
 
-1. Web Scraping do ranking do site: https://www.fundsexplorer.com.br/ranking
+![image](/Slide2.png?raw=true)
 
-2. Tratamento dos dados, object --> float
 
-3. Segmentação pelo tipo de fundo
+Na primeira pagina o usuário ira encontrar a lista do banco de dados coms suas respectivas informações simplificadas. 
 
-4. Criação dos seguintes filtros:
+1. Caso o(a) coloborador(a) do lava jato queira adicionar um novo cliente basta ele clicar em "Adicionar" que ele será direcionado para a pagina correta;
 
-  - Fundos com valores patrimoniais acima de 1 Milhão; 
-  - Fundos com valores P/VPA abaixo de 1.15;  
-  - Fundos que possuem ativos físicos, precisam ter pelo menos 5 empreendimentos;  
-  - Criação de uma nova coluna (DELTA), contendo o delta entre o preço atual e o VPA.
+2. Caso o(a) coloborador(a) do lava jato queira visualizar mais informações, editar alguma informação ou até mesmo excluir algum cliente, basta clicar nos botões na coluna de ações;
 
-5. Aplicar um filtro limitando o DELTA a valores menores que 10 reais.
+3. Caso o(a) coloborador(a) do lava jato queira explicar a diferença entre cada pacote oferecido, pode clicar no botão "serviços" e ira ser direcioando(a) para uma arte para ajudar na explicação;
 
-6. Fazer uma ordenação dos fundos com base no ['DY(12M)_ACUMULADO' , 'DIVIDEND_YIELD']
+4. Caso  o(a) coloborador(a) do lava jato queira analisar algumas informações do negócio, pode clicar no botão "balanço" e ira ser direcionado(a) para um dashboard com  informações relevantes para o negócio;
 
-7. Analisar os 5 primeiros fundos de cada tipo e fazer uma análise mais detalhada
+5. Caso  o(a) coloborador(a) do lava jato queira fazer uma busca pelo modelo do carro também disponibilizamos um buscador nessa capa
+
+
 
 ## **Atualizações** :memo:
 
-- [ ] Ajuste dos parâmetros utilizados no filtro já existente; :construction: :warning: :construction:
-- [ ] Criação de novos filtros; :construction: :warning: :construction:
-- [x] Utilizar o Yahoo Finanças para buscar o histórico dos fundos escolhidos; ✅
-- [ ] Fazer um pipeline dos filtros; :construction: :warning: :construction:
-- [ ] Fazer uma análise gráfica do efeitos dos filtros; :construction: :warning: :construction:
+- [ ] Criar o Dashboard, para tornar mais interativo o balanço do lava-jato; :construction: :warning: :construction:
+- [ ] Hospedar esse projeto no Heroku; :construction: :warning: :construction:
+
+## **Passo a passo** :memo:
+1. Fazer o Download de todos os arquivos desse repositório
+2. ativar o ambiente virtual (venv) que contem as bibliotecas utilizdas nesse projeto
+3. Colocar no terminal o seguite comando: python manage.py runserver 
+4. Clicar no link do local host e utilizar essa aplicação
