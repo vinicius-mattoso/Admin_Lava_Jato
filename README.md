@@ -44,7 +44,7 @@ Na primeira pagina o usuário ira encontrar a lista do banco de dados coms suas 
 
 # ***Página Balanço*** 🚗 :blue_car: 
 
-![image](https://github.com/vinicius-mattoso/Admin_Lava_Jato/blob/main/Slide1.PNG)
+![image](https://github.com/vinicius-mattoso/Admin_Lava_Jato/blob/main/Slide5.PNG)
 
 ## **Atualizações** :memo:
 
